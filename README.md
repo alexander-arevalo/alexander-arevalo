@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerootwooooo
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
