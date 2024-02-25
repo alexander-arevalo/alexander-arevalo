@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zerootwooooo
+- 👋 Hi, I’m @alexander-arevalo
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on ...
