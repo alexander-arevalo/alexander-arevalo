@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexander-arevalo
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning the MERN stack
+- 🌱 I’m currently learning the NEXT/Supabase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
