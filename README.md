@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexander-arevalo
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning the NEXTJS/Supabase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
