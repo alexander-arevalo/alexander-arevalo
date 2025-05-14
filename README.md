@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @alexander-arevalo
+- 👋 Hi, I’m @alexander-areval
 - 👀 I’m interested in coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
+HTML5 
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexander-arevalo)](https://github.com/anuraghazra/github-readme-stats)
